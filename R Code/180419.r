@@ -24,8 +24,6 @@ dotplot(variety~yield|site, data=barley, groups=year, panel=panel.superpose, pan
 col.line=c("grey", "transparent"), xlab="Barley Yield \n (Bushels per Acre)", key=list( text=list(c("1932", "1931")),
 points=Rows(trellis.par.get("superpose.symbol"), 1:2)))
 
-#나머지 집에서 실습해보기
-
 
 
 
