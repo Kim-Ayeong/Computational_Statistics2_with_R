@@ -4,12 +4,12 @@
 - 교육일시 : 2018/03/01 - 2018/06/21
 - 언어 및 프로그램 : R / R Studio
 - 교재 1 : R 프로그래밍
-  - <img src="http://image.kyobobook.co.kr/images/book/xlarge/225/x9791158081225.jpg" alt="img" style="zoom:50%;" />
+  - <img src="http://image.kyobobook.co.kr/images/book/xlarge/225/x9791158081225.jpg" alt="img" width="250"  />
 
 - 교재 2 : Using R for Data Analysis and Graphics
   - ![j.h. maindonald using r for data analysis and graphics에 대한 이미지 검색결과](https://images-na.ssl-images-amazon.com/images/I/41yn7POl9iL._AC_SY400_ML2_.jpg)
 - 교재 3 : Using R for Introductory Statistics
-  - <img src="https://images.tandf.co.uk/common/jackets/amazon/978146659/9781466590731.jpg" alt="using r for introductory statistics verzani에 대한 이미지 검색결과" style="zoom: 67%;" />
+  - <img src="https://images.tandf.co.uk/common/jackets/amazon/978146659/9781466590731.jpg" alt="using r for introductory statistics verzani에 대한 이미지 검색결과" width="270" />
   - 1주 차 - R 소개, 간단한 예제 프로그램
   - 2주 차 - 1차원, 2차원 자료 형태와 그림을 이용한 분석
   - 3주 차 - 다차원 자료의 처리(storing, accessing, visualizing), 파일 읽고 쓰기
